@@ -25,4 +25,16 @@ Ex. /hello <br>
 localhost/hello <br>
 facebook.com/home
 
-# FastAPI-Banknote-Authentication
+<br>
+<hr>
+<h1>FastAPI-Banknote-Authentication</h1>
+
+<b><h4> 1. pip install requirements.txt  </h4></b>
+
+<hr>
+
+For hosting the app in local host
+<br>
+<b>uvicorn app:app --reload
+</b>
+<hr>
